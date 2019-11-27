@@ -22,5 +22,5 @@ It's EASY! It's Wix! Go to [https://wix.com/jobs](https://www.wix.com/jobs/locat
 ## Start Browsing!
 
 - [Process](./PROCESS.md)
-- [Preparation]('./preparation)
-- [Evaluation]('./evaluation)
+- [Preparation](./preparation)
+- [Evaluation](./evaluation)
