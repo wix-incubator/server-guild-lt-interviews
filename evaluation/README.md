@@ -1,5 +1,5 @@
 # We are looking for…
-It is important to have in mind that we do not expect candidates to be up to the same level we do things internally. A lot of aspects can easily be changed as they continue working with us.
+It is important to have in mind that we do not expect candidates to have same opinions and experience as we do interrnally. A lot of aspects can easily be learned as they continue working with us.
 
 Candidates (except for juniors) are expected to do at least OK in each of critical points. Non-critical points may also be a reason to reject a candidate but only if they are really bad.
 
