@@ -26,7 +26,7 @@ No:
 
 ## Staying Specific
 
-To avoid ambiguity and confusion, stay as specific as you can. If you see a repeating problem, give some example.
+To avoid ambiguity and confusion, stay as specific as you can. If having hard time rephrasing, you could add an example.
 
 ```
 Yes:
@@ -34,6 +34,18 @@ Yes:
 
 No:
 - Prone to race conditions.
+```
+
+## Staying Factual
+
+Keeping feedback factual makes it easier to consume and act on.
+
+```
+Yes:
+- Did not solve the problem without help.
+
+No:
+- Had hard time solving the problem.
 ```
 
 ## Targeting Criticism
@@ -47,7 +59,3 @@ Yes:
 No:
 - Didn't implement handling invalid inputs.
 ```
-
-## Judgemental Phrasing
-
-Avoid it. It is sometimes hard to notice such but it should be avoided if noticed. Staying factual and specific helps a lot here.
