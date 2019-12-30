@@ -6,13 +6,13 @@ P.S. Don't forget that common sense goes above all guidelines. Be smart.
 
 ## Purpose
 
-Each point in feedback should be aimed to helping receiving person improve. Think about it when writing each of the points.
+Each point of the feedback should be aimed at helping the receiving person improve. Think about it when writing each of the points.
 
 ## Actionable Points
 
-Feedback loses a lot of value if it's not clear what action receiver should take. In most cases it manifests as one of two properties:
+Good feedback should clearly indicate ways to improve. This can usually be achieved in two ways:
 
-A. Reference to a topic or source that covers the point.
+A. Referencing a topic or source that covers the point.
 
 B. Suggesting an alternative.
 
