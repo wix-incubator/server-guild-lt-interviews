@@ -13,7 +13,7 @@ Rules are simple:
 
 If you add new material, please leave a short comment on what you like about it in particular.
 
-P.S. Commit messages matter! We are watching! 👀
+P.S. Commit messages matter! Let's keep it clean.
 
 ## Applying
 
