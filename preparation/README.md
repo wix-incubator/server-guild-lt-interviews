@@ -34,6 +34,11 @@ Note that following sources are covering more than just the requirements. We aim
 - Introductory.
 - A little high-level.
 
+*Testing*
+
+[{video} Mocks, Stubs, and Spies, Oh My! by Brian Gardner]
+- Test doubles.
+
 *Test-driven Development*
 
 [{video} TDD: Discover Implementation by Stepping Small by Vaidas Pilkauskas]
@@ -70,5 +75,6 @@ See [examples directory](./examples) .
 [{video} Goos style TDD by Example by Sagy Rozman]: https://www.youtube.com/watch?v=zcQOjYXe8vM
 [{video} Declarative Thinking, Declarative Practice by Kevlin Henney]: https://www.youtube.com/watch?v=NSzsYWckGd4
 [System Design Interview Collection]: https://github.com/checkcheckzz/system-design-interview
+[{video} Mocks, Stubs, and Spies, Oh My! by Brian Gardner]: https://www.youtube.com/watch?v=tVCSKsMtXn0
 [{book} Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin]: https://www.goodreads.com/book/show/3735293-clean-code
 [{book} Growing Object-Oriented Software, Guided by Tests by Steve Freeman, Nat Pryce]: https://www.goodreads.com/book/show/4268826-growing-object-oriented-software-guided-by-tests
