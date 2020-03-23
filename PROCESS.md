@@ -43,7 +43,7 @@ Problems you are given don't have objectively correct answers. You are expected 
 
 Diagrams are usually useful for communicating your ideas. However, we do not care for exact format. A couple rectangles with lines is usually enough. We care for your thought process and reasoning and not drawing skills.
 
-Some more details available in [evaluation](./eevaluation#technical-interview) page.
+Some more details available in [evaluation](./evaluation#technical-interview) page.
 
 ## Non-technical Stages
 
