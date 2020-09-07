@@ -53,9 +53,9 @@ Note that following sources are covering more than just the requirements. We aim
 - a lot of useful material.
 - covers a lot of topics.
 
-*TLS, HTTP*
+*Networking*
 
-// Don't know where to put this. Basic topic. "Networking" maybe?
+// TLS, HTTP, hand-shakes, round-trips.
 
 *Load Balancing*
 
