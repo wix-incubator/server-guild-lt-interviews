@@ -1,4 +1,4 @@
-# Problem: Counter Service
+# Problem: Ratings Service
 
 ## Use-case
 Allow users rate articles on Wix sites.
