@@ -8,18 +8,18 @@ Note that following sources are covering more than just the requirements. We aim
 
 *Computer Fundamentals*
 
-// Stack, CPU, Memory
-// Complexity
-// IO/CPU-bound
+// Stack, CPU, Memory  
+// Complexity  
+// IO/CPU-bound  
 
 *Parallel Programming*
 
-// Thread pools, event loop (Node).
-// Bottlenecks.
+// Thread pools, event loop (Node).  
+// Bottlenecks.  
 
 *Concurrent Programming*
 
-// Race conditions.
+// Race conditions.  
 
 *Naming*
 
