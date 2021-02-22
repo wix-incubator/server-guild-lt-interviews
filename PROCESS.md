@@ -31,7 +31,7 @@ We meet for a short face-to-face conversation. Mostly talking about Wix and you.
 
 Homework assignment is a small application we want you to code. Assignment is inspired by some problem we faced in the past.
 
-Some more details available in [evaluation](./eevaluation#homework-assignment) page.
+Some more details available in [evaluation](./evaluation#homework-assignment) page.
 
 ## Technical Interview
 
